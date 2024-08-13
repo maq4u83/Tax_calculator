@@ -1,5 +1,5 @@
 streamlit
 Panda
-Bumpy
-
-
+git
+python
+pip
