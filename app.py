@@ -86,7 +86,3 @@ if st.sidebar.button("Calculate Tax"):
                 })
         breakdown_df = pd.DataFrame(breakdown)
         st.dataframe(breakdown_df)
-
-# Footer
-st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("Created by Maqsood Ahmad")
